@@ -1,0 +1,34 @@
+Bulls & Cows game result.
+Your chosen secret code is:1256
+The secret code of the computer is: 5231
+------------------------------------------------------------------------
+Turn 1: 
+You guessed 1567, scoring 0 bulls and 2 cows.
+Computer guessed 9453, scoring 1 bulls and 0 cows.
+------------------------------------------------------------------------
+Turn 2: 
+You guessed 1907, scoring 0 bulls and 1 cows.
+Computer guessed 1532, scoring 1 bulls and 2 cows.
+------------------------------------------------------------------------
+Turn 3: 
+You guessed 1235, scoring 2 bulls and 2 cows.
+Computer guessed 9637, scoring 0 bulls and 1 cows.
+------------------------------------------------------------------------
+Turn 4: 
+You guessed 5893, scoring 1 bulls and 1 cows.
+Computer guessed 6201, scoring 1 bulls and 2 cows.
+------------------------------------------------------------------------
+Turn 5: 
+You guessed 2890, scoring 0 bulls and 1 cows.
+Computer guessed 9062, scoring 0 bulls and 2 cows.
+------------------------------------------------------------------------
+Turn 6: 
+You guessed 1290, scoring 1 bulls and 1 cows.
+Computer guessed 5026, scoring 1 bulls and 2 cows.
+------------------------------------------------------------------------
+Turn 7: 
+You guessed 7592, scoring 0 bulls and 2 cows.
+Computer guessed 9473, scoring 0 bulls and 0 cows.
+------------------------------------------------------------------------
+It's a draw.
+------------------------------------------------------------------------
